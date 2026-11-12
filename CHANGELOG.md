@@ -1,7 +1,7 @@
 # Changelog
 
-## Clear 1.0.0
-- New pack variant `Novaroma Season Icons Clear`: all 1923 icons without background, transparent PNGs.
+## 3.0.0
+- Every icon now also exists without background (`-clear`, transparent PNG). 3846 icons in total, one pack.
 
 ## 2.6.0
 
