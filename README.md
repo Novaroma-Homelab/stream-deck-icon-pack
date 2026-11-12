@@ -2,7 +2,7 @@
 
 Stream Deck icon pack with line icons in the Novaroma season colours (standard, spring, summer, autumn, winter) in light, dark and burgundy.
 
-- 3846 icons, 144x144 px: 1923 with tile background and 1923 without background.
+- 4326 icons, 144x144 px: 2163 with tile background and 2163 without background.
 - English names and tags, searchable in the Stream Deck icon browser.
 - Includes on/off pairs for lights, plugs, doors and more.
 

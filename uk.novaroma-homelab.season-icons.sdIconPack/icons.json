@@ -56467,5 +56467,8525 @@
    "Transparent",
    "Ohne Hintergrund"
   ]
+ },
+ {
+  "path": "standard-light-soundboard.png",
+  "name": "Soundboard (Standard Light)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "standard-light-soundboard-clear.png",
+  "name": "Soundboard (Standard Light, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-mixer.png",
+  "name": "Mixer (Standard Light)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "standard-light-mixer-clear.png",
+  "name": "Mixer (Standard Light, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-equalizer.png",
+  "name": "Equalizer (Standard Light)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "standard-light-equalizer-clear.png",
+  "name": "Equalizer (Standard Light, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-waveform.png",
+  "name": "Waveform (Standard Light)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "standard-light-waveform-clear.png",
+  "name": "Waveform (Standard Light, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-headset.png",
+  "name": "Headset (Standard Light)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "standard-light-headset-clear.png",
+  "name": "Headset (Standard Light, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-broadcast.png",
+  "name": "Broadcast (Standard Light)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "standard-light-broadcast-clear.png",
+  "name": "Broadcast (Standard Light, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-clapperboard.png",
+  "name": "Clapperboard (Standard Light)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "standard-light-clapperboard-clear.png",
+  "name": "Clapperboard (Standard Light, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-keyboard.png",
+  "name": "Keyboard (Standard Light)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "standard-light-keyboard-clear.png",
+  "name": "Keyboard (Standard Light, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-mouse.png",
+  "name": "Mouse (Standard Light)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "standard-light-mouse-clear.png",
+  "name": "Mouse (Standard Light, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-grid.png",
+  "name": "Grid (Standard Light)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "standard-light-grid-clear.png",
+  "name": "Grid (Standard Light, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-fullscreen.png",
+  "name": "Fullscreen (Standard Light)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "standard-light-fullscreen-clear.png",
+  "name": "Fullscreen (Standard Light, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-cast.png",
+  "name": "Cast (Standard Light)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "standard-light-cast-clear.png",
+  "name": "Cast (Standard Light, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-metronome.png",
+  "name": "Metronome (Standard Light)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "standard-light-metronome-clear.png",
+  "name": "Metronome (Standard Light, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-horn.png",
+  "name": "French horn (Standard Light)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "standard-light-horn-clear.png",
+  "name": "French horn (Standard Light, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-thumbs-up.png",
+  "name": "Thumbs up (Standard Light)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "standard-light-thumbs-up-clear.png",
+  "name": "Thumbs up (Standard Light, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-light-send.png",
+  "name": "Send (Standard Light)",
+  "tags": [
+   "Send",
+   "send",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "standard-light-send-clear.png",
+  "name": "Send (Standard Light, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Standard",
+   "Standard",
+   "Light",
+   "Hell",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-soundboard.png",
+  "name": "Soundboard (Standard Dark)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "standard-dark-soundboard-clear.png",
+  "name": "Soundboard (Standard Dark, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-mixer.png",
+  "name": "Mixer (Standard Dark)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "standard-dark-mixer-clear.png",
+  "name": "Mixer (Standard Dark, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-equalizer.png",
+  "name": "Equalizer (Standard Dark)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "standard-dark-equalizer-clear.png",
+  "name": "Equalizer (Standard Dark, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-waveform.png",
+  "name": "Waveform (Standard Dark)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "standard-dark-waveform-clear.png",
+  "name": "Waveform (Standard Dark, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-headset.png",
+  "name": "Headset (Standard Dark)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "standard-dark-headset-clear.png",
+  "name": "Headset (Standard Dark, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-broadcast.png",
+  "name": "Broadcast (Standard Dark)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "standard-dark-broadcast-clear.png",
+  "name": "Broadcast (Standard Dark, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-clapperboard.png",
+  "name": "Clapperboard (Standard Dark)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "standard-dark-clapperboard-clear.png",
+  "name": "Clapperboard (Standard Dark, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-keyboard.png",
+  "name": "Keyboard (Standard Dark)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "standard-dark-keyboard-clear.png",
+  "name": "Keyboard (Standard Dark, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-mouse.png",
+  "name": "Mouse (Standard Dark)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "standard-dark-mouse-clear.png",
+  "name": "Mouse (Standard Dark, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-grid.png",
+  "name": "Grid (Standard Dark)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "standard-dark-grid-clear.png",
+  "name": "Grid (Standard Dark, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-fullscreen.png",
+  "name": "Fullscreen (Standard Dark)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "standard-dark-fullscreen-clear.png",
+  "name": "Fullscreen (Standard Dark, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-cast.png",
+  "name": "Cast (Standard Dark)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "standard-dark-cast-clear.png",
+  "name": "Cast (Standard Dark, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-metronome.png",
+  "name": "Metronome (Standard Dark)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "standard-dark-metronome-clear.png",
+  "name": "Metronome (Standard Dark, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-horn.png",
+  "name": "French horn (Standard Dark)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "standard-dark-horn-clear.png",
+  "name": "French horn (Standard Dark, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-thumbs-up.png",
+  "name": "Thumbs up (Standard Dark)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "standard-dark-thumbs-up-clear.png",
+  "name": "Thumbs up (Standard Dark, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-dark-send.png",
+  "name": "Send (Standard Dark)",
+  "tags": [
+   "Send",
+   "send",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "standard-dark-send-clear.png",
+  "name": "Send (Standard Dark, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Standard",
+   "Standard",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-soundboard.png",
+  "name": "Soundboard (Standard Burgundy)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "standard-burgundy-soundboard-clear.png",
+  "name": "Soundboard (Standard Burgundy, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-mixer.png",
+  "name": "Mixer (Standard Burgundy)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "standard-burgundy-mixer-clear.png",
+  "name": "Mixer (Standard Burgundy, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-equalizer.png",
+  "name": "Equalizer (Standard Burgundy)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "standard-burgundy-equalizer-clear.png",
+  "name": "Equalizer (Standard Burgundy, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-waveform.png",
+  "name": "Waveform (Standard Burgundy)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "standard-burgundy-waveform-clear.png",
+  "name": "Waveform (Standard Burgundy, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-headset.png",
+  "name": "Headset (Standard Burgundy)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "standard-burgundy-headset-clear.png",
+  "name": "Headset (Standard Burgundy, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-broadcast.png",
+  "name": "Broadcast (Standard Burgundy)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "standard-burgundy-broadcast-clear.png",
+  "name": "Broadcast (Standard Burgundy, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-clapperboard.png",
+  "name": "Clapperboard (Standard Burgundy)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "standard-burgundy-clapperboard-clear.png",
+  "name": "Clapperboard (Standard Burgundy, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-keyboard.png",
+  "name": "Keyboard (Standard Burgundy)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "standard-burgundy-keyboard-clear.png",
+  "name": "Keyboard (Standard Burgundy, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-mouse.png",
+  "name": "Mouse (Standard Burgundy)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "standard-burgundy-mouse-clear.png",
+  "name": "Mouse (Standard Burgundy, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-grid.png",
+  "name": "Grid (Standard Burgundy)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "standard-burgundy-grid-clear.png",
+  "name": "Grid (Standard Burgundy, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-fullscreen.png",
+  "name": "Fullscreen (Standard Burgundy)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "standard-burgundy-fullscreen-clear.png",
+  "name": "Fullscreen (Standard Burgundy, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-cast.png",
+  "name": "Cast (Standard Burgundy)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "standard-burgundy-cast-clear.png",
+  "name": "Cast (Standard Burgundy, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-metronome.png",
+  "name": "Metronome (Standard Burgundy)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "standard-burgundy-metronome-clear.png",
+  "name": "Metronome (Standard Burgundy, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-horn.png",
+  "name": "French horn (Standard Burgundy)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "standard-burgundy-horn-clear.png",
+  "name": "French horn (Standard Burgundy, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-thumbs-up.png",
+  "name": "Thumbs up (Standard Burgundy)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "standard-burgundy-thumbs-up-clear.png",
+  "name": "Thumbs up (Standard Burgundy, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "standard-burgundy-send.png",
+  "name": "Send (Standard Burgundy)",
+  "tags": [
+   "Send",
+   "send",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "standard-burgundy-send-clear.png",
+  "name": "Send (Standard Burgundy, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Standard",
+   "Standard",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-soundboard.png",
+  "name": "Soundboard (Spring Light)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "fruehling-light-soundboard-clear.png",
+  "name": "Soundboard (Spring Light, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-mixer.png",
+  "name": "Mixer (Spring Light)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "fruehling-light-mixer-clear.png",
+  "name": "Mixer (Spring Light, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-equalizer.png",
+  "name": "Equalizer (Spring Light)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "fruehling-light-equalizer-clear.png",
+  "name": "Equalizer (Spring Light, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-waveform.png",
+  "name": "Waveform (Spring Light)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "fruehling-light-waveform-clear.png",
+  "name": "Waveform (Spring Light, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-headset.png",
+  "name": "Headset (Spring Light)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "fruehling-light-headset-clear.png",
+  "name": "Headset (Spring Light, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-broadcast.png",
+  "name": "Broadcast (Spring Light)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "fruehling-light-broadcast-clear.png",
+  "name": "Broadcast (Spring Light, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-clapperboard.png",
+  "name": "Clapperboard (Spring Light)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "fruehling-light-clapperboard-clear.png",
+  "name": "Clapperboard (Spring Light, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-keyboard.png",
+  "name": "Keyboard (Spring Light)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "fruehling-light-keyboard-clear.png",
+  "name": "Keyboard (Spring Light, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-mouse.png",
+  "name": "Mouse (Spring Light)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "fruehling-light-mouse-clear.png",
+  "name": "Mouse (Spring Light, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-grid.png",
+  "name": "Grid (Spring Light)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "fruehling-light-grid-clear.png",
+  "name": "Grid (Spring Light, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-fullscreen.png",
+  "name": "Fullscreen (Spring Light)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "fruehling-light-fullscreen-clear.png",
+  "name": "Fullscreen (Spring Light, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-cast.png",
+  "name": "Cast (Spring Light)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "fruehling-light-cast-clear.png",
+  "name": "Cast (Spring Light, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-metronome.png",
+  "name": "Metronome (Spring Light)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "fruehling-light-metronome-clear.png",
+  "name": "Metronome (Spring Light, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-horn.png",
+  "name": "French horn (Spring Light)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "fruehling-light-horn-clear.png",
+  "name": "French horn (Spring Light, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-thumbs-up.png",
+  "name": "Thumbs up (Spring Light)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "fruehling-light-thumbs-up-clear.png",
+  "name": "Thumbs up (Spring Light, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-light-send.png",
+  "name": "Send (Spring Light)",
+  "tags": [
+   "Send",
+   "send",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "fruehling-light-send-clear.png",
+  "name": "Send (Spring Light, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Spring",
+   "Frühling",
+   "Light",
+   "Hell",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-soundboard.png",
+  "name": "Soundboard (Spring Dark)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "fruehling-dark-soundboard-clear.png",
+  "name": "Soundboard (Spring Dark, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-mixer.png",
+  "name": "Mixer (Spring Dark)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "fruehling-dark-mixer-clear.png",
+  "name": "Mixer (Spring Dark, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-equalizer.png",
+  "name": "Equalizer (Spring Dark)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "fruehling-dark-equalizer-clear.png",
+  "name": "Equalizer (Spring Dark, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-waveform.png",
+  "name": "Waveform (Spring Dark)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "fruehling-dark-waveform-clear.png",
+  "name": "Waveform (Spring Dark, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-headset.png",
+  "name": "Headset (Spring Dark)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "fruehling-dark-headset-clear.png",
+  "name": "Headset (Spring Dark, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-broadcast.png",
+  "name": "Broadcast (Spring Dark)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "fruehling-dark-broadcast-clear.png",
+  "name": "Broadcast (Spring Dark, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-clapperboard.png",
+  "name": "Clapperboard (Spring Dark)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "fruehling-dark-clapperboard-clear.png",
+  "name": "Clapperboard (Spring Dark, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-keyboard.png",
+  "name": "Keyboard (Spring Dark)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "fruehling-dark-keyboard-clear.png",
+  "name": "Keyboard (Spring Dark, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-mouse.png",
+  "name": "Mouse (Spring Dark)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "fruehling-dark-mouse-clear.png",
+  "name": "Mouse (Spring Dark, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-grid.png",
+  "name": "Grid (Spring Dark)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "fruehling-dark-grid-clear.png",
+  "name": "Grid (Spring Dark, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-fullscreen.png",
+  "name": "Fullscreen (Spring Dark)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "fruehling-dark-fullscreen-clear.png",
+  "name": "Fullscreen (Spring Dark, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-cast.png",
+  "name": "Cast (Spring Dark)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "fruehling-dark-cast-clear.png",
+  "name": "Cast (Spring Dark, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-metronome.png",
+  "name": "Metronome (Spring Dark)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "fruehling-dark-metronome-clear.png",
+  "name": "Metronome (Spring Dark, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-horn.png",
+  "name": "French horn (Spring Dark)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "fruehling-dark-horn-clear.png",
+  "name": "French horn (Spring Dark, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-thumbs-up.png",
+  "name": "Thumbs up (Spring Dark)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "fruehling-dark-thumbs-up-clear.png",
+  "name": "Thumbs up (Spring Dark, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-dark-send.png",
+  "name": "Send (Spring Dark)",
+  "tags": [
+   "Send",
+   "send",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "fruehling-dark-send-clear.png",
+  "name": "Send (Spring Dark, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Spring",
+   "Frühling",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-soundboard.png",
+  "name": "Soundboard (Spring Burgundy)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-soundboard-clear.png",
+  "name": "Soundboard (Spring Burgundy, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-mixer.png",
+  "name": "Mixer (Spring Burgundy)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-mixer-clear.png",
+  "name": "Mixer (Spring Burgundy, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-equalizer.png",
+  "name": "Equalizer (Spring Burgundy)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-equalizer-clear.png",
+  "name": "Equalizer (Spring Burgundy, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-waveform.png",
+  "name": "Waveform (Spring Burgundy)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-waveform-clear.png",
+  "name": "Waveform (Spring Burgundy, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-headset.png",
+  "name": "Headset (Spring Burgundy)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-headset-clear.png",
+  "name": "Headset (Spring Burgundy, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-broadcast.png",
+  "name": "Broadcast (Spring Burgundy)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-broadcast-clear.png",
+  "name": "Broadcast (Spring Burgundy, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-clapperboard.png",
+  "name": "Clapperboard (Spring Burgundy)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-clapperboard-clear.png",
+  "name": "Clapperboard (Spring Burgundy, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-keyboard.png",
+  "name": "Keyboard (Spring Burgundy)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-keyboard-clear.png",
+  "name": "Keyboard (Spring Burgundy, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-mouse.png",
+  "name": "Mouse (Spring Burgundy)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-mouse-clear.png",
+  "name": "Mouse (Spring Burgundy, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-grid.png",
+  "name": "Grid (Spring Burgundy)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-grid-clear.png",
+  "name": "Grid (Spring Burgundy, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-fullscreen.png",
+  "name": "Fullscreen (Spring Burgundy)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-fullscreen-clear.png",
+  "name": "Fullscreen (Spring Burgundy, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-cast.png",
+  "name": "Cast (Spring Burgundy)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-cast-clear.png",
+  "name": "Cast (Spring Burgundy, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-metronome.png",
+  "name": "Metronome (Spring Burgundy)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-metronome-clear.png",
+  "name": "Metronome (Spring Burgundy, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-horn.png",
+  "name": "French horn (Spring Burgundy)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-horn-clear.png",
+  "name": "French horn (Spring Burgundy, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-thumbs-up.png",
+  "name": "Thumbs up (Spring Burgundy)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-thumbs-up-clear.png",
+  "name": "Thumbs up (Spring Burgundy, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-send.png",
+  "name": "Send (Spring Burgundy)",
+  "tags": [
+   "Send",
+   "send",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "fruehling-burgundy-send-clear.png",
+  "name": "Send (Spring Burgundy, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Spring",
+   "Frühling",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-soundboard.png",
+  "name": "Soundboard (Summer Light)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "sommer-light-soundboard-clear.png",
+  "name": "Soundboard (Summer Light, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-mixer.png",
+  "name": "Mixer (Summer Light)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "sommer-light-mixer-clear.png",
+  "name": "Mixer (Summer Light, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-equalizer.png",
+  "name": "Equalizer (Summer Light)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "sommer-light-equalizer-clear.png",
+  "name": "Equalizer (Summer Light, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-waveform.png",
+  "name": "Waveform (Summer Light)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "sommer-light-waveform-clear.png",
+  "name": "Waveform (Summer Light, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-headset.png",
+  "name": "Headset (Summer Light)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "sommer-light-headset-clear.png",
+  "name": "Headset (Summer Light, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-broadcast.png",
+  "name": "Broadcast (Summer Light)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "sommer-light-broadcast-clear.png",
+  "name": "Broadcast (Summer Light, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-clapperboard.png",
+  "name": "Clapperboard (Summer Light)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "sommer-light-clapperboard-clear.png",
+  "name": "Clapperboard (Summer Light, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-keyboard.png",
+  "name": "Keyboard (Summer Light)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "sommer-light-keyboard-clear.png",
+  "name": "Keyboard (Summer Light, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-mouse.png",
+  "name": "Mouse (Summer Light)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "sommer-light-mouse-clear.png",
+  "name": "Mouse (Summer Light, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-grid.png",
+  "name": "Grid (Summer Light)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "sommer-light-grid-clear.png",
+  "name": "Grid (Summer Light, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-fullscreen.png",
+  "name": "Fullscreen (Summer Light)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "sommer-light-fullscreen-clear.png",
+  "name": "Fullscreen (Summer Light, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-cast.png",
+  "name": "Cast (Summer Light)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "sommer-light-cast-clear.png",
+  "name": "Cast (Summer Light, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-metronome.png",
+  "name": "Metronome (Summer Light)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "sommer-light-metronome-clear.png",
+  "name": "Metronome (Summer Light, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-horn.png",
+  "name": "French horn (Summer Light)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "sommer-light-horn-clear.png",
+  "name": "French horn (Summer Light, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-thumbs-up.png",
+  "name": "Thumbs up (Summer Light)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "sommer-light-thumbs-up-clear.png",
+  "name": "Thumbs up (Summer Light, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-light-send.png",
+  "name": "Send (Summer Light)",
+  "tags": [
+   "Send",
+   "send",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "sommer-light-send-clear.png",
+  "name": "Send (Summer Light, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Summer",
+   "Sommer",
+   "Light",
+   "Hell",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-soundboard.png",
+  "name": "Soundboard (Summer Dark)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "sommer-dark-soundboard-clear.png",
+  "name": "Soundboard (Summer Dark, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-mixer.png",
+  "name": "Mixer (Summer Dark)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "sommer-dark-mixer-clear.png",
+  "name": "Mixer (Summer Dark, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-equalizer.png",
+  "name": "Equalizer (Summer Dark)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "sommer-dark-equalizer-clear.png",
+  "name": "Equalizer (Summer Dark, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-waveform.png",
+  "name": "Waveform (Summer Dark)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "sommer-dark-waveform-clear.png",
+  "name": "Waveform (Summer Dark, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-headset.png",
+  "name": "Headset (Summer Dark)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "sommer-dark-headset-clear.png",
+  "name": "Headset (Summer Dark, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-broadcast.png",
+  "name": "Broadcast (Summer Dark)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "sommer-dark-broadcast-clear.png",
+  "name": "Broadcast (Summer Dark, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-clapperboard.png",
+  "name": "Clapperboard (Summer Dark)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "sommer-dark-clapperboard-clear.png",
+  "name": "Clapperboard (Summer Dark, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-keyboard.png",
+  "name": "Keyboard (Summer Dark)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "sommer-dark-keyboard-clear.png",
+  "name": "Keyboard (Summer Dark, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-mouse.png",
+  "name": "Mouse (Summer Dark)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "sommer-dark-mouse-clear.png",
+  "name": "Mouse (Summer Dark, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-grid.png",
+  "name": "Grid (Summer Dark)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "sommer-dark-grid-clear.png",
+  "name": "Grid (Summer Dark, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-fullscreen.png",
+  "name": "Fullscreen (Summer Dark)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "sommer-dark-fullscreen-clear.png",
+  "name": "Fullscreen (Summer Dark, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-cast.png",
+  "name": "Cast (Summer Dark)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "sommer-dark-cast-clear.png",
+  "name": "Cast (Summer Dark, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-metronome.png",
+  "name": "Metronome (Summer Dark)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "sommer-dark-metronome-clear.png",
+  "name": "Metronome (Summer Dark, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-horn.png",
+  "name": "French horn (Summer Dark)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "sommer-dark-horn-clear.png",
+  "name": "French horn (Summer Dark, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-thumbs-up.png",
+  "name": "Thumbs up (Summer Dark)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "sommer-dark-thumbs-up-clear.png",
+  "name": "Thumbs up (Summer Dark, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-dark-send.png",
+  "name": "Send (Summer Dark)",
+  "tags": [
+   "Send",
+   "send",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "sommer-dark-send-clear.png",
+  "name": "Send (Summer Dark, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Summer",
+   "Sommer",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-soundboard.png",
+  "name": "Soundboard (Summer Burgundy)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-soundboard-clear.png",
+  "name": "Soundboard (Summer Burgundy, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-mixer.png",
+  "name": "Mixer (Summer Burgundy)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-mixer-clear.png",
+  "name": "Mixer (Summer Burgundy, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-equalizer.png",
+  "name": "Equalizer (Summer Burgundy)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-equalizer-clear.png",
+  "name": "Equalizer (Summer Burgundy, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-waveform.png",
+  "name": "Waveform (Summer Burgundy)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-waveform-clear.png",
+  "name": "Waveform (Summer Burgundy, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-headset.png",
+  "name": "Headset (Summer Burgundy)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-headset-clear.png",
+  "name": "Headset (Summer Burgundy, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-broadcast.png",
+  "name": "Broadcast (Summer Burgundy)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-broadcast-clear.png",
+  "name": "Broadcast (Summer Burgundy, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-clapperboard.png",
+  "name": "Clapperboard (Summer Burgundy)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-clapperboard-clear.png",
+  "name": "Clapperboard (Summer Burgundy, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-keyboard.png",
+  "name": "Keyboard (Summer Burgundy)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-keyboard-clear.png",
+  "name": "Keyboard (Summer Burgundy, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-mouse.png",
+  "name": "Mouse (Summer Burgundy)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-mouse-clear.png",
+  "name": "Mouse (Summer Burgundy, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-grid.png",
+  "name": "Grid (Summer Burgundy)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-grid-clear.png",
+  "name": "Grid (Summer Burgundy, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-fullscreen.png",
+  "name": "Fullscreen (Summer Burgundy)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-fullscreen-clear.png",
+  "name": "Fullscreen (Summer Burgundy, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-cast.png",
+  "name": "Cast (Summer Burgundy)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-cast-clear.png",
+  "name": "Cast (Summer Burgundy, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-metronome.png",
+  "name": "Metronome (Summer Burgundy)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-metronome-clear.png",
+  "name": "Metronome (Summer Burgundy, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-horn.png",
+  "name": "French horn (Summer Burgundy)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-horn-clear.png",
+  "name": "French horn (Summer Burgundy, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-thumbs-up.png",
+  "name": "Thumbs up (Summer Burgundy)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-thumbs-up-clear.png",
+  "name": "Thumbs up (Summer Burgundy, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-send.png",
+  "name": "Send (Summer Burgundy)",
+  "tags": [
+   "Send",
+   "send",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "sommer-burgundy-send-clear.png",
+  "name": "Send (Summer Burgundy, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Summer",
+   "Sommer",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-soundboard.png",
+  "name": "Soundboard (Autumn Light)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "herbst-light-soundboard-clear.png",
+  "name": "Soundboard (Autumn Light, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-mixer.png",
+  "name": "Mixer (Autumn Light)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "herbst-light-mixer-clear.png",
+  "name": "Mixer (Autumn Light, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-equalizer.png",
+  "name": "Equalizer (Autumn Light)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "herbst-light-equalizer-clear.png",
+  "name": "Equalizer (Autumn Light, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-waveform.png",
+  "name": "Waveform (Autumn Light)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "herbst-light-waveform-clear.png",
+  "name": "Waveform (Autumn Light, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-headset.png",
+  "name": "Headset (Autumn Light)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "herbst-light-headset-clear.png",
+  "name": "Headset (Autumn Light, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-broadcast.png",
+  "name": "Broadcast (Autumn Light)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "herbst-light-broadcast-clear.png",
+  "name": "Broadcast (Autumn Light, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-clapperboard.png",
+  "name": "Clapperboard (Autumn Light)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "herbst-light-clapperboard-clear.png",
+  "name": "Clapperboard (Autumn Light, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-keyboard.png",
+  "name": "Keyboard (Autumn Light)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "herbst-light-keyboard-clear.png",
+  "name": "Keyboard (Autumn Light, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-mouse.png",
+  "name": "Mouse (Autumn Light)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "herbst-light-mouse-clear.png",
+  "name": "Mouse (Autumn Light, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-grid.png",
+  "name": "Grid (Autumn Light)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "herbst-light-grid-clear.png",
+  "name": "Grid (Autumn Light, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-fullscreen.png",
+  "name": "Fullscreen (Autumn Light)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "herbst-light-fullscreen-clear.png",
+  "name": "Fullscreen (Autumn Light, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-cast.png",
+  "name": "Cast (Autumn Light)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "herbst-light-cast-clear.png",
+  "name": "Cast (Autumn Light, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-metronome.png",
+  "name": "Metronome (Autumn Light)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "herbst-light-metronome-clear.png",
+  "name": "Metronome (Autumn Light, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-horn.png",
+  "name": "French horn (Autumn Light)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "herbst-light-horn-clear.png",
+  "name": "French horn (Autumn Light, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-thumbs-up.png",
+  "name": "Thumbs up (Autumn Light)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "herbst-light-thumbs-up-clear.png",
+  "name": "Thumbs up (Autumn Light, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-light-send.png",
+  "name": "Send (Autumn Light)",
+  "tags": [
+   "Send",
+   "send",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "herbst-light-send-clear.png",
+  "name": "Send (Autumn Light, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Autumn",
+   "Herbst",
+   "Light",
+   "Hell",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-soundboard.png",
+  "name": "Soundboard (Autumn Dark)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "herbst-dark-soundboard-clear.png",
+  "name": "Soundboard (Autumn Dark, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-mixer.png",
+  "name": "Mixer (Autumn Dark)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "herbst-dark-mixer-clear.png",
+  "name": "Mixer (Autumn Dark, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-equalizer.png",
+  "name": "Equalizer (Autumn Dark)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "herbst-dark-equalizer-clear.png",
+  "name": "Equalizer (Autumn Dark, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-waveform.png",
+  "name": "Waveform (Autumn Dark)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "herbst-dark-waveform-clear.png",
+  "name": "Waveform (Autumn Dark, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-headset.png",
+  "name": "Headset (Autumn Dark)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "herbst-dark-headset-clear.png",
+  "name": "Headset (Autumn Dark, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-broadcast.png",
+  "name": "Broadcast (Autumn Dark)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "herbst-dark-broadcast-clear.png",
+  "name": "Broadcast (Autumn Dark, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-clapperboard.png",
+  "name": "Clapperboard (Autumn Dark)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "herbst-dark-clapperboard-clear.png",
+  "name": "Clapperboard (Autumn Dark, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-keyboard.png",
+  "name": "Keyboard (Autumn Dark)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "herbst-dark-keyboard-clear.png",
+  "name": "Keyboard (Autumn Dark, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-mouse.png",
+  "name": "Mouse (Autumn Dark)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "herbst-dark-mouse-clear.png",
+  "name": "Mouse (Autumn Dark, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-grid.png",
+  "name": "Grid (Autumn Dark)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "herbst-dark-grid-clear.png",
+  "name": "Grid (Autumn Dark, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-fullscreen.png",
+  "name": "Fullscreen (Autumn Dark)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "herbst-dark-fullscreen-clear.png",
+  "name": "Fullscreen (Autumn Dark, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-cast.png",
+  "name": "Cast (Autumn Dark)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "herbst-dark-cast-clear.png",
+  "name": "Cast (Autumn Dark, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-metronome.png",
+  "name": "Metronome (Autumn Dark)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "herbst-dark-metronome-clear.png",
+  "name": "Metronome (Autumn Dark, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-horn.png",
+  "name": "French horn (Autumn Dark)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "herbst-dark-horn-clear.png",
+  "name": "French horn (Autumn Dark, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-thumbs-up.png",
+  "name": "Thumbs up (Autumn Dark)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "herbst-dark-thumbs-up-clear.png",
+  "name": "Thumbs up (Autumn Dark, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-dark-send.png",
+  "name": "Send (Autumn Dark)",
+  "tags": [
+   "Send",
+   "send",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "herbst-dark-send-clear.png",
+  "name": "Send (Autumn Dark, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Autumn",
+   "Herbst",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-soundboard.png",
+  "name": "Soundboard (Autumn Burgundy)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-soundboard-clear.png",
+  "name": "Soundboard (Autumn Burgundy, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-mixer.png",
+  "name": "Mixer (Autumn Burgundy)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-mixer-clear.png",
+  "name": "Mixer (Autumn Burgundy, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-equalizer.png",
+  "name": "Equalizer (Autumn Burgundy)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-equalizer-clear.png",
+  "name": "Equalizer (Autumn Burgundy, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-waveform.png",
+  "name": "Waveform (Autumn Burgundy)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-waveform-clear.png",
+  "name": "Waveform (Autumn Burgundy, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-headset.png",
+  "name": "Headset (Autumn Burgundy)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-headset-clear.png",
+  "name": "Headset (Autumn Burgundy, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-broadcast.png",
+  "name": "Broadcast (Autumn Burgundy)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-broadcast-clear.png",
+  "name": "Broadcast (Autumn Burgundy, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-clapperboard.png",
+  "name": "Clapperboard (Autumn Burgundy)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-clapperboard-clear.png",
+  "name": "Clapperboard (Autumn Burgundy, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-keyboard.png",
+  "name": "Keyboard (Autumn Burgundy)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-keyboard-clear.png",
+  "name": "Keyboard (Autumn Burgundy, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-mouse.png",
+  "name": "Mouse (Autumn Burgundy)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-mouse-clear.png",
+  "name": "Mouse (Autumn Burgundy, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-grid.png",
+  "name": "Grid (Autumn Burgundy)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-grid-clear.png",
+  "name": "Grid (Autumn Burgundy, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-fullscreen.png",
+  "name": "Fullscreen (Autumn Burgundy)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-fullscreen-clear.png",
+  "name": "Fullscreen (Autumn Burgundy, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-cast.png",
+  "name": "Cast (Autumn Burgundy)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-cast-clear.png",
+  "name": "Cast (Autumn Burgundy, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-metronome.png",
+  "name": "Metronome (Autumn Burgundy)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-metronome-clear.png",
+  "name": "Metronome (Autumn Burgundy, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-horn.png",
+  "name": "French horn (Autumn Burgundy)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-horn-clear.png",
+  "name": "French horn (Autumn Burgundy, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-thumbs-up.png",
+  "name": "Thumbs up (Autumn Burgundy)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-thumbs-up-clear.png",
+  "name": "Thumbs up (Autumn Burgundy, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-send.png",
+  "name": "Send (Autumn Burgundy)",
+  "tags": [
+   "Send",
+   "send",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "herbst-burgundy-send-clear.png",
+  "name": "Send (Autumn Burgundy, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Autumn",
+   "Herbst",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-soundboard.png",
+  "name": "Soundboard (Winter Light)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "winter-light-soundboard-clear.png",
+  "name": "Soundboard (Winter Light, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-mixer.png",
+  "name": "Mixer (Winter Light)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "winter-light-mixer-clear.png",
+  "name": "Mixer (Winter Light, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-equalizer.png",
+  "name": "Equalizer (Winter Light)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "winter-light-equalizer-clear.png",
+  "name": "Equalizer (Winter Light, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-waveform.png",
+  "name": "Waveform (Winter Light)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "winter-light-waveform-clear.png",
+  "name": "Waveform (Winter Light, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-headset.png",
+  "name": "Headset (Winter Light)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "winter-light-headset-clear.png",
+  "name": "Headset (Winter Light, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-broadcast.png",
+  "name": "Broadcast (Winter Light)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "winter-light-broadcast-clear.png",
+  "name": "Broadcast (Winter Light, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-clapperboard.png",
+  "name": "Clapperboard (Winter Light)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "winter-light-clapperboard-clear.png",
+  "name": "Clapperboard (Winter Light, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-keyboard.png",
+  "name": "Keyboard (Winter Light)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "winter-light-keyboard-clear.png",
+  "name": "Keyboard (Winter Light, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-mouse.png",
+  "name": "Mouse (Winter Light)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "winter-light-mouse-clear.png",
+  "name": "Mouse (Winter Light, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-grid.png",
+  "name": "Grid (Winter Light)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "winter-light-grid-clear.png",
+  "name": "Grid (Winter Light, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-fullscreen.png",
+  "name": "Fullscreen (Winter Light)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "winter-light-fullscreen-clear.png",
+  "name": "Fullscreen (Winter Light, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-cast.png",
+  "name": "Cast (Winter Light)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "winter-light-cast-clear.png",
+  "name": "Cast (Winter Light, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-metronome.png",
+  "name": "Metronome (Winter Light)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "winter-light-metronome-clear.png",
+  "name": "Metronome (Winter Light, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-horn.png",
+  "name": "French horn (Winter Light)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "winter-light-horn-clear.png",
+  "name": "French horn (Winter Light, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-thumbs-up.png",
+  "name": "Thumbs up (Winter Light)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "winter-light-thumbs-up-clear.png",
+  "name": "Thumbs up (Winter Light, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-light-send.png",
+  "name": "Send (Winter Light)",
+  "tags": [
+   "Send",
+   "send",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "winter-light-send-clear.png",
+  "name": "Send (Winter Light, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Winter",
+   "Winter",
+   "Light",
+   "Hell",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-soundboard.png",
+  "name": "Soundboard (Winter Dark)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "winter-dark-soundboard-clear.png",
+  "name": "Soundboard (Winter Dark, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-mixer.png",
+  "name": "Mixer (Winter Dark)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "winter-dark-mixer-clear.png",
+  "name": "Mixer (Winter Dark, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-equalizer.png",
+  "name": "Equalizer (Winter Dark)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "winter-dark-equalizer-clear.png",
+  "name": "Equalizer (Winter Dark, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-waveform.png",
+  "name": "Waveform (Winter Dark)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "winter-dark-waveform-clear.png",
+  "name": "Waveform (Winter Dark, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-headset.png",
+  "name": "Headset (Winter Dark)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "winter-dark-headset-clear.png",
+  "name": "Headset (Winter Dark, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-broadcast.png",
+  "name": "Broadcast (Winter Dark)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "winter-dark-broadcast-clear.png",
+  "name": "Broadcast (Winter Dark, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-clapperboard.png",
+  "name": "Clapperboard (Winter Dark)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "winter-dark-clapperboard-clear.png",
+  "name": "Clapperboard (Winter Dark, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-keyboard.png",
+  "name": "Keyboard (Winter Dark)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "winter-dark-keyboard-clear.png",
+  "name": "Keyboard (Winter Dark, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-mouse.png",
+  "name": "Mouse (Winter Dark)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "winter-dark-mouse-clear.png",
+  "name": "Mouse (Winter Dark, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-grid.png",
+  "name": "Grid (Winter Dark)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "winter-dark-grid-clear.png",
+  "name": "Grid (Winter Dark, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-fullscreen.png",
+  "name": "Fullscreen (Winter Dark)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "winter-dark-fullscreen-clear.png",
+  "name": "Fullscreen (Winter Dark, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-cast.png",
+  "name": "Cast (Winter Dark)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "winter-dark-cast-clear.png",
+  "name": "Cast (Winter Dark, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-metronome.png",
+  "name": "Metronome (Winter Dark)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "winter-dark-metronome-clear.png",
+  "name": "Metronome (Winter Dark, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-horn.png",
+  "name": "French horn (Winter Dark)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "winter-dark-horn-clear.png",
+  "name": "French horn (Winter Dark, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-thumbs-up.png",
+  "name": "Thumbs up (Winter Dark)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "winter-dark-thumbs-up-clear.png",
+  "name": "Thumbs up (Winter Dark, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-dark-send.png",
+  "name": "Send (Winter Dark)",
+  "tags": [
+   "Send",
+   "send",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "winter-dark-send-clear.png",
+  "name": "Send (Winter Dark, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Winter",
+   "Winter",
+   "Dark",
+   "Dunkel",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-soundboard.png",
+  "name": "Soundboard (Winter Burgundy)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads"
+  ]
+ },
+ {
+  "path": "winter-burgundy-soundboard-clear.png",
+  "name": "Soundboard (Winter Burgundy, no background)",
+  "tags": [
+   "Soundboard",
+   "soundboard",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "pads",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-mixer.png",
+  "name": "Mixer (Winter Burgundy)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders"
+  ]
+ },
+ {
+  "path": "winter-burgundy-mixer-clear.png",
+  "name": "Mixer (Winter Burgundy, no background)",
+  "tags": [
+   "Mixer",
+   "mixer",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "faders",
+   "sliders",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-equalizer.png",
+  "name": "Equalizer (Winter Burgundy)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "music",
+   "bars"
+  ]
+ },
+ {
+  "path": "winter-burgundy-equalizer-clear.png",
+  "name": "Equalizer (Winter Burgundy, no background)",
+  "tags": [
+   "Equalizer",
+   "equalizer",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "music",
+   "bars",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-waveform.png",
+  "name": "Waveform (Winter Burgundy)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "sound",
+   "voice"
+  ]
+ },
+ {
+  "path": "winter-burgundy-waveform-clear.png",
+  "name": "Waveform (Winter Burgundy, no background)",
+  "tags": [
+   "Waveform",
+   "waveform",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "sound",
+   "voice",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-headset.png",
+  "name": "Headset (Winter Burgundy)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone"
+  ]
+ },
+ {
+  "path": "winter-burgundy-headset-clear.png",
+  "name": "Headset (Winter Burgundy, no background)",
+  "tags": [
+   "Headset",
+   "headset",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Audio",
+   "Streaming",
+   "voice",
+   "microphone",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-broadcast.png",
+  "name": "Broadcast (Winter Burgundy)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna"
+  ]
+ },
+ {
+  "path": "winter-burgundy-broadcast-clear.png",
+  "name": "Broadcast (Winter Burgundy, no background)",
+  "tags": [
+   "Broadcast",
+   "broadcast",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "live",
+   "antenna",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-clapperboard.png",
+  "name": "Clapperboard (Winter Burgundy)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film"
+  ]
+ },
+ {
+  "path": "winter-burgundy-clapperboard-clear.png",
+  "name": "Clapperboard (Winter Burgundy, no background)",
+  "tags": [
+   "Clapperboard",
+   "clapperboard",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "video",
+   "scene",
+   "film",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-keyboard.png",
+  "name": "Keyboard (Winter Burgundy)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Typing",
+   "macro",
+   "keys"
+  ]
+ },
+ {
+  "path": "winter-burgundy-keyboard-clear.png",
+  "name": "Keyboard (Winter Burgundy, no background)",
+  "tags": [
+   "Keyboard",
+   "keyboard",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Typing",
+   "macro",
+   "keys",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-mouse.png",
+  "name": "Mouse (Winter Burgundy)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Pointer",
+   "click",
+   "input"
+  ]
+ },
+ {
+  "path": "winter-burgundy-mouse-clear.png",
+  "name": "Mouse (Winter Burgundy, no background)",
+  "tags": [
+   "Mouse",
+   "mouse",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Pointer",
+   "click",
+   "input",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-grid.png",
+  "name": "Grid (Winter Burgundy)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles"
+  ]
+ },
+ {
+  "path": "winter-burgundy-grid-clear.png",
+  "name": "Grid (Winter Burgundy, no background)",
+  "tags": [
+   "Grid",
+   "grid",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Layout",
+   "overview",
+   "tiles",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-fullscreen.png",
+  "name": "Fullscreen (Winter Burgundy)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Display",
+   "expand",
+   "window"
+  ]
+ },
+ {
+  "path": "winter-burgundy-fullscreen-clear.png",
+  "name": "Fullscreen (Winter Burgundy, no background)",
+  "tags": [
+   "Fullscreen",
+   "fullscreen",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Display",
+   "expand",
+   "window",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-cast.png",
+  "name": "Cast (Winter Burgundy)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "screen",
+   "share"
+  ]
+ },
+ {
+  "path": "winter-burgundy-cast-clear.png",
+  "name": "Cast (Winter Burgundy, no background)",
+  "tags": [
+   "Cast",
+   "cast",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Streaming",
+   "screen",
+   "share",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-metronome.png",
+  "name": "Metronome (Winter Burgundy)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "tempo",
+   "beat"
+  ]
+ },
+ {
+  "path": "winter-burgundy-metronome-clear.png",
+  "name": "Metronome (Winter Burgundy, no background)",
+  "tags": [
+   "Metronome",
+   "metronome",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "tempo",
+   "beat",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-horn.png",
+  "name": "French horn (Winter Burgundy)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn"
+  ]
+ },
+ {
+  "path": "winter-burgundy-horn-clear.png",
+  "name": "French horn (Winter Burgundy, no background)",
+  "tags": [
+   "French horn",
+   "horn",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Music",
+   "brass",
+   "instrument",
+   "Horn",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-thumbs-up.png",
+  "name": "Thumbs up (Winter Burgundy)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Like",
+   "approve",
+   "ok"
+  ]
+ },
+ {
+  "path": "winter-burgundy-thumbs-up-clear.png",
+  "name": "Thumbs up (Winter Burgundy, no background)",
+  "tags": [
+   "Thumbs up",
+   "thumbs-up",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Like",
+   "approve",
+   "ok",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
+ },
+ {
+  "path": "winter-burgundy-send.png",
+  "name": "Send (Winter Burgundy)",
+  "tags": [
+   "Send",
+   "send",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane"
+  ]
+ },
+ {
+  "path": "winter-burgundy-send-clear.png",
+  "name": "Send (Winter Burgundy, no background)",
+  "tags": [
+   "Send",
+   "send",
+   "Winter",
+   "Winter",
+   "Burgundy",
+   "Burgund",
+   "Season",
+   "Mail",
+   "message",
+   "paper plane",
+   "No background",
+   "Transparent",
+   "Ohne Hintergrund"
+  ]
  }
 ]

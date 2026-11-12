@@ -1,8 +1,8 @@
 {
   "Name": "Novaroma Season Icons",
   "Author": "JestingDart4369",
-  "Version": "3.0.0",
-  "Description": "3,846 icons for your keys in five seasonal colour themes (Default, Spring, Summer, Autumn, Winter), each in light, dark and burgundy: 1,923 with a tile background and 1,923 without any background (file names end in -clear, tag No background), for wallpapers and your own key backgrounds. 104 symbols for system, development, media, audio and study, plus 12 on/off pairs for smart-home toggles. Made with the help of AI (Claude by Anthropic) and reviewed by the author.",
+  "Version": "3.1.0",
+  "Description": "4,326 icons for your keys in five seasonal colour themes (Default, Spring, Summer, Autumn, Winter), each in light, dark and burgundy: 2,163 with a tile background and 2,163 without any background (file names end in -clear, tag No background), for wallpapers and your own key backgrounds. 120 symbols for system, development, media, audio, streaming and study (new: soundboard, mixer, equalizer, waveform, headset, broadcast and more), plus 12 on/off pairs for smart-home toggles. Made with the help of AI (Claude by Anthropic) and reviewed by the author.",
   "Icon": "icon.svg",
   "License": "license.txt",
   "URL": "https://github.com/Novaroma-Homelab/stream-deck-icon-pack"
