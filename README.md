@@ -11,8 +11,7 @@ Stream Deck icon pack with line icons in the Novaroma season colours (standard, 
 Double-click `Novaroma-Season-Icons.streamDeckIconPack` (from the Releases page), or pack the folder yourself:
 
 ```
-cd uk.novaroma-homelab.season-icons.sdIconPack
-zip -r ../Novaroma-Season-Icons.streamDeckIconPack .
+zip -r Novaroma-Season-Icons.streamDeckIconPack uk.novaroma-homelab.season-icons.sdIconPack
 ```
 
 ## Licence
