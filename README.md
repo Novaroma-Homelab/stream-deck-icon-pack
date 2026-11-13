@@ -2,7 +2,9 @@
 
 Stream Deck icon pack with line icons in the Novaroma season colours (standard, spring, summer, autumn, winter) in light, dark and burgundy.
 
-- 4326 icons, 144x144 px: 2163 with tile background and 2163 without background.
+- 27,546 icons, 144x144 px, with tile background and without background.
+- Library of 387 toggle symbols, each as outline `-off` and filled `-on` for two-state keys, including lights: spot light, built-in downlight, cupboard and under-cabinet light, LED strip, key light, ring light, lamps. See `docs/LIBRARY.md`.
+- File and display naming scheme: `docs/NAMING.md`.
 - English names and tags, searchable in the Stream Deck icon browser.
 - Includes on/off pairs for lights, plugs, doors and more.
 

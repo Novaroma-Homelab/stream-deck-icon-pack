@@ -1,0 +1,412 @@
+# Library: all toggle pairs
+
+387 symbols. Every symbol exists as an Off (outline) and an On (filled) icon, in 15 colour themes, with and without tile background: 23,220 icons. Naming scheme: see [NAMING.md](NAMING.md).
+
+File name: `<season>-<mode>-<symbol>-<off|on>[-clear].png`, for example `herbst-dark-cabinet-light-on.png`.
+
+Lights (spot light, downlight / built-in light, cupboard light, under-cabinet light, LED strip, key light, ring light, lamps) also glow in the On state.
+
+## Light (43)
+
+- `light-bulb`: Light bulb
+- `spot-light`: Spot light
+- `downlight`: Built-in light (downlight)
+- `cabinet-light`: Under-cabinet light
+- `cupboard-light`: Cupboard light (inside)
+- `light-strip`: Light strip (LED strip)
+- `led-strip-wave`: LED strip (wave)
+- `key-light`: Key light (panel on stand)
+- `panel-light`: LED panel
+- `ring-light`: Ring light
+- `desk-lamp`: Desk lamp
+- `floor-lamp`: Floor lamp
+- `pendant-light`: Pendant light
+- `lantern`: Lantern
+- `string-lights`: String lights
+- `monitor-light`: Monitor light bar
+- `smart-plug`: Smart plug
+- `light-switch`: Light switch
+- `color-temperature`: Color temperature
+- `light-scene`: Light scene
+- `sun`: Sun / brightness
+- `sun-plus`: Sun / brightness with plus
+- `sun-minus`: Sun / brightness with minus
+- `sun-out`: Sun / brightness with arrow out
+- `moon-night`: Moon / night light
+- `lightning`: Lightning bolt
+- `flame`: Flame
+- `lamp-ceiling`: Ceiling light
+- `lamp-wall`: Wall sconce
+- `lamp-night`: Night light
+- `candle`: Candle
+- `flashlight`: Flashlight
+- `spotlight-track`: Track spot
+- `spotlight-cone`: Spot cone
+- `stage-light`: Stage light
+- `floodlight`: Floodlight
+- `light-key-air`: Key Light Air
+- `cupboard-open`: Open cupboard light
+- `shelf-light`: Shelf light
+- `light-bar`: Light bar
+- `neon-sign`: Neon sign
+- `dimmer`: Dimmer
+- `light-color`: Light color
+
+## Arrows & signs (78)
+
+- `arrow-up`: Arrow up
+- `arrow-down`: Arrow down
+- `arrow-left`: Arrow left
+- `arrow-right`: Arrow right
+- `arrow-left-right`: Arrow left-right
+- `arrow-up-down`: Arrow up-down
+- `arrow-return`: Arrow return
+- `chevron-up`: Chevron up
+- `chevron-down`: Chevron down
+- `chevron-left`: Chevron left
+- `chevron-right`: Chevron right
+- `chevrons-up`: Chevrons up
+- `chevrons-down`: Chevrons down
+- `chevrons-left`: Chevrons left
+- `chevrons-right`: Chevrons right
+- `chevrons-up-down`: Chevrons up-down
+- `plus`: Plus
+- `minus`: Minus
+- `close`: Close
+- `check`: Check
+- `code`: Code
+- `code-brackets`: Code chevrons
+- `more-horizontal`: More (horizontal)
+- `more-vertical`: More (vertical)
+- `menu`: Menu
+- `list`: List
+- `checklist`: Checklist
+- `expand`: Expand
+- `collapse`: Collapse
+- `refresh`: Refresh
+- `undo`: Undo
+- `redo`: Redo
+- `shuffle`: Shuffle
+- `upload`: Upload
+- `download-tray`: Download
+- `power`: Power
+- `crop`: Crop
+- `scan-frame`: Scan frame
+- `face-scan`: Face scan
+- `bold`: Bold
+- `italic`: Italic
+- `underline`: Underline
+- `quote`: Quote
+- `paperclip`: Paperclip
+- `scissors`: Scissors
+- `dollar`: Dollar
+- `euro`: Euro
+- `pound`: Pound
+- `yen`: Yen
+- `swap`: Swap
+- `arrow-diagonal`: Arrow diagonal
+- `chevrons-horizontal`: Chevrons horizontal
+- `shrink`: Shrink
+- `move`: Move
+- `share-external`: Open external
+- `distribute-h`: Distribute horizontal
+- `distribute-v`: Distribute vertical
+- `focus-frame`: Focus frame
+- `focus-plus`: Focus add
+- `list-ordered`: Ordered list
+- `list-indent`: Indent list
+- `backspace`: Backspace
+- `skip-next`: Next
+- `skip-back`: Previous
+- `repeat`: Repeat
+- `rewind`: Rewind
+- `fast-forward`: Fast forward
+- `number-0`: Number 0
+- `number-1`: Number 1
+- `number-2`: Number 2
+- `number-3`: Number 3
+- `number-4`: Number 4
+- `number-5`: Number 5
+- `number-6`: Number 6
+- `number-7`: Number 7
+- `number-8`: Number 8
+- `number-9`: Number 9
+- `number-10`: Number 10
+
+## Shapes (39)
+
+- `circle`: Circle
+- `record`: Record
+- `square`: Square
+- `stop`: Stop
+- `diamond`: Diamond
+- `hexagon`: Hexagon
+- `octagon`: Octagon
+- `pentagon`: Pentagon
+- `triangle`: Triangle
+- `heart`: Heart
+- `star`: Star
+- `badge-star`: Star badge
+- `percent-badge`: Percent badge
+- `check-circle`: Check circle
+- `x-circle`: Close circle
+- `plus-circle`: Plus circle
+- `minus-circle`: Minus circle
+- `x-square`: Close square
+- `info-circle`: Info
+- `help-circle`: Help
+- `warning`: Warning
+- `ban`: No entry
+- `pause`: Pause
+- `play`: Play
+- `play-circle`: Play circle
+- `play-pause`: Play / pause
+- `cloud`: Cloud
+- `drop`: Drop
+- `crown`: Crown
+- `mountain`: Mountain
+- `pine`: Pine tree
+- `smiley`: Smiley
+- `sparkles`: Sparkles
+- `shapes`: Shapes
+- `badge-verified`: Verified
+- `laurel`: Laurel
+- `wand`: Magic wand
+- `ear`: Ear
+- `rings`: Rings
+
+## Objects (121)
+
+- `person`: Person
+- `person-plus`: Person with plus
+- `person-minus`: Person with minus
+- `person-check`: Person with check
+- `people`: People
+- `user-circle`: User circle
+- `accessibility`: Accessibility
+- `home`: Home
+- `briefcase`: Briefcase
+- `book-open`: Open book
+- `books`: Books
+- `calendar-day`: Calendar
+- `calendar-day-plus`: Calendar with plus
+- `calendar-day-check`: Calendar with check
+- `clock`: Clock
+- `alarm`: Alarm clock
+- `timer`: Timer
+- `bell`: Bell
+- `bell-plus`: Bell with plus
+- `bell-slash`: Bell off
+- `eye-open`: Eye
+- `eye-closed`: Eye off
+- `lock`: Lock
+- `unlock`: Unlock
+- `key`: Key
+- `pin`: Location pin
+- `globe`: Globe
+- `globe-plus`: Globe with plus
+- `globe-check`: Globe with check
+- `mail`: Mail
+- `mail-plus`: Mail with plus
+- `mail-check`: Mail with check
+- `chat`: Chat
+- `chat-plus`: Chat with plus
+- `chat-check`: Chat with check
+- `chat-up`: Chat with arrow up
+- `chat-down`: Chat with arrow down
+- `chat-out`: Chat with arrow out
+- `chat-text`: Chat with text
+- `phone`: Phone
+- `microphone`: Microphone
+- `microphone-slash`: Microphone off
+- `speaker-volume`: Speaker
+- `speaker-low`: Speaker low
+- `speaker-mute`: Speaker muted
+- `headphones`: Headphones
+- `headphones-plus`: Headphones with plus
+- `headphones-out`: Headphones with arrow out
+- `music-note`: Music
+- `camera-photo`: Camera
+- `camera-photo-check`: Camera with check
+- `camera-photo-plus`: Camera with plus
+- `camera-photo-out`: Camera with arrow out
+- `video`: Video
+- `video-plus`: Video with plus
+- `video-check`: Video with check
+- `video-out`: Video with arrow out
+- `webcam`: Webcam
+- `webcam-slash`: Webcam off
+- `cart`: Shopping cart
+- `church`: Church
+- `tag`: Tag
+- `trophy`: Trophy
+- `rocket`: Rocket
+- `puzzle`: Puzzle
+- `shield`: Shield
+- `shield-slash`: Shield off
+- `compass`: Compass
+- `receipt`: Receipt
+- `credit-card`: Credit card
+- `truck`: Truck
+- `train`: Train
+- `weather`: Sun and cloud
+- `wifi-signal`: Wi-Fi
+- `wifi-signal-slash`: Wi-Fi off
+- `signal`: Signal
+- `palette`: Palette
+- `pen`: Pen
+- `paint-roller`: Paint roller
+- `soundboard`: Soundboard
+- `waveform`: Waveform
+- `equalizer`: Equalizer
+- `broadcast`: Broadcast
+- `chart-line`: Line chart
+- `clock-dashed`: Time lapse
+- `hourglass`: Hourglass
+- `calendar`: Calendar
+- `sync`: Sync
+- `face-plus`: Smile add
+- `building`: Building
+- `city`: City
+- `flag`: Flag
+- `lifebuoy`: Lifebuoy
+- `drop-half`: Drop half
+- `thermometer`: Thermometer
+- `weather-wind`: Wind
+- `steam`: Heater
+- `cart-plus`: Cart add
+- `cart-minus`: Cart remove
+- `cash`: Cash
+- `gift`: Gift
+- `gear`: Gear
+- `wrench`: Wrench
+- `eyedropper`: Eyedropper
+- `code-box`: Code box
+- `braces`: Braces
+- `terminal`: Terminal
+- `bug`: Bug
+- `branch`: Branch
+- `commit`: Commit
+- `link`: Link
+- `shield-check`: Shield check
+- `shield-heart`: Shield heart
+- `share`: Share
+- `presentation`: Presentation
+- `presentation-play`: Present play
+- `gamepad`: Gamepad
+- `coffee`: Coffee
+- `sofa`: Sofa
+- `chair`: Chair
+- `pixels`: Pixels
+
+## Files & folders (30)
+
+- `file`: File
+- `file-plus`: File with plus
+- `file-up`: File with arrow up
+- `file-down`: File with arrow down
+- `file-text`: File with text
+- `folder`: Folder
+- `folder-plus`: Folder with plus
+- `folder-up`: Folder with arrow up
+- `folder-down`: Folder with arrow down
+- `save`: Save
+- `copy`: Copy
+- `clipboard`: Clipboard
+- `layers`: Layers
+- `trash`: Trash
+- `database`: Database
+- `file-download`: File download
+- `file-upload`: File upload
+- `files`: Files
+- `folder-open`: Folder open
+- `folder-download`: Folder download
+- `folder-upload`: Folder upload
+- `folder-back`: Folder back
+- `inbox`: Inbox
+- `note-edit`: Edit note
+- `pen-nib`: Pen nib
+- `eraser`: Eraser
+- `clipboard-copy`: Clipboard copy
+- `book`: Book
+- `graduation`: Graduation cap
+- `bookmark`: Bookmark
+
+## Devices & layout (76)
+
+- `display`: Display
+- `display-plus`: Display with plus
+- `display-check`: Display with check
+- `display-out`: Display with arrow out
+- `laptop`: Laptop
+- `smartphone`: Smartphone
+- `chip`: Chip
+- `cube`: Cube
+- `cube-check`: Cube with check
+- `cube-scan`: 3D scan
+- `grid-4`: Grid
+- `apps-add`: Widgets
+- `window`: Window
+- `sidebar`: Sidebar
+- `columns`: Columns
+- `windows-overlap`: Windows
+- `sliders`: Sliders
+- `sliders-vertical`: Sliders vertical
+- `filter`: Filter
+- `bar-chart`: Bar chart
+- `pie-chart`: Pie chart
+- `search`: Search
+- `cursor`: Cursor
+- `align-left`: Align left
+- `align-right`: Align right
+- `align-top`: Align top
+- `align-bottom`: Align bottom
+- `align-center-h`: Align center horizontal
+- `align-center-v`: Align center vertical
+- `grid-plus`: Apps add
+- `grid-table`: Table
+- `sidebar-left`: Sidebar left
+- `sidebar-right`: Sidebar right
+- `window-sidebar`: App window
+- `dashboard`: Dashboard
+- `gauge`: Gauge
+- `camera-flip`: Camera flip
+- `camera-slash`: Camera off
+- `video-slash`: Video off
+- `action-cam`: Action camera
+- `security-camera`: Security camera
+- `screen-record`: Screen record
+- `screenshot`: Screenshot
+- `photo`: Photo
+- `monitor-plus`: Monitor add
+- `monitor-check`: Monitor check
+- `monitors`: Monitors
+- `monitor-share`: Monitor share
+- `computer`: Computer
+- `keyboard`: Keyboard
+- `mouse`: Mouse
+- `hand-tap`: Hand tap
+- `mobile`: Phone
+- `tablet`: Tablet
+- `smartphone-money`: Pay display
+- `hdmi`: HDMI
+- `usb`: USB
+- `server`: Server
+- `bluetooth`: Bluetooth
+- `rss`: RSS
+- `cast`: Cast
+- `podcast`: Podcast
+- `qr`: QR code
+- `scan-code`: Scan
+- `face-id`: Face ID
+- `aperture`: Aperture
+- `lens`: Lens
+- `drone`: Drone
+- `mic-stand`: Mic on stand
+- `headphones-slash`: Headphones off
+- `music-notes`: Music notes
+- `radio-waves`: Radio
+- `metronome`: Metronome
+- `horn`: French horn
+- `drum`: Drum
+- `mixer`: Mixer
