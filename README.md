@@ -1,4 +1,4 @@
-# Novaroma Season Icons
+# Roman Season Icons
 
 Stream Deck icon pack with line icons in the Novaroma season colours (standard, spring, summer, autumn, winter) in light, dark and burgundy.
 
@@ -14,10 +14,10 @@ Every icon exists twice: the normal tile (`season-mode-name.png`) and a version 
 
 ## Install
 
-Double-click `Novaroma-Season-Icons.streamDeckIconPack` (from the Releases page), or pack the folder yourself:
+Double-click `Roman-Season-Icons.streamDeckIconPack` (from the Releases page), or pack the folder yourself:
 
 ```
-zip -r Novaroma-Season-Icons.streamDeckIconPack uk.novaroma-homelab.season-icons.sdIconPack
+zip -r Roman-Season-Icons.streamDeckIconPack uk.novaroma-homelab.season-icons.sdIconPack
 ```
 
 ## Licence

@@ -204,7 +204,7 @@ f('align-bottom','Align bottom',V,'align,bottom,Ausrichten,unten','<rect x="5" y
 f('align-center-h','Align center horizontal',V,'align,center,Ausrichten,Mitte','<rect x="5" y="5" width="14" height="5" rx="1.5"/><rect x="8" y="14" width="8" height="5" rx="1.5"/>','','<path d="M12 3v18"/>')
 f('align-center-v','Align center vertical',V,'align,center,Ausrichten,Mitte','<rect x="5" y="5" width="5" height="14" rx="1.5"/><rect x="14" y="8" width="5" height="8" rx="1.5"/>','','<path d="M3 12h18"/>')
 # ---------- Streaming/Audio (bestehende Formen als An/Aus) ----------
-f('soundboard','Soundboard',O,'soundboard,pads,audio,Soundboard,streaming','<rect x="3" y="3" width="8" height="8" rx="2"/><rect x="13" y="3" width="8" height="8" rx="2"/><rect x="3" y="13" width="8" height="8" rx="2"/><rect x="13" y="13" width="8" height="8" rx="2"/>')
+f('soundboard','Soundboard',O,'soundboard,pads,audio,Soundboard,streaming','<rect x="3" y="3" width="18" height="18" rx="3"/>','<rect x="6" y="6" width="5" height="5" rx="1"/><rect x="13" y="6" width="5" height="5" rx="1"/><path d="M6 16h12"/><path d="M9 14.5v3"/>')
 l('waveform','Waveform',O,'waveform,audio,sound,Wellenform','<path d="M3 10v4M6.5 7v10M10 4v16M14 8v8M17.5 7v10M21 10v4"/>')
 f('equalizer','Equalizer',O,'equalizer,bars,audio,Equalizer','<rect x="3.5" y="11" width="3.4" height="9" rx="1.2"/><rect x="10.3" y="4" width="3.4" height="16" rx="1.2"/><rect x="17.1" y="8" width="3.4" height="12" rx="1.2"/>')
 f('broadcast','Broadcast',O,'broadcast,live,streaming,Übertragung','<circle cx="12" cy="12" r="2.4"/>','','<path d="M7.8 7.8a5.9 5.9 0 0 0 0 8.4M16.2 7.8a5.9 5.9 0 0 1 0 8.4M4.8 4.8a10.2 10.2 0 0 0 0 14.4M19.2 4.8a10.2 10.2 0 0 1 0 14.4"/>')
