@@ -5,3 +5,4 @@
 - Galerie (6): `gallery-1-seasons.png` bis `gallery-6-on-your-deck.png`
 - Animiert: `animated-seasons.gif`, `animated-no-background.gif`
 - `extras/`: zwei weitere Bilder, die nicht in die sechs Plätze passen
+- Beschreibung für die Maker Console (Englisch, 250 bis 1500 Zeichen): `description-en.md`
