@@ -12,7 +12,7 @@ Roman Season Icons: a Stream Deck icon pack (`uk.novaroma-homelab.season-icons.s
 - `tools/library/glyphs.py` and `glyphs_extra.py`: symbol drawings (SVG parts). `glyphs.py` imports `glyphs_extra` at its end.
 - `tools/library/render.py`: turns a glyph into the `-off` (outline) and `-on` (filled) PNGs. Keys per glyph: `name, grp, tags, kind ('f' fillable / 'l' line only), body, knock, line, acc, slash, det`. `acc` (rays, glow) is drawn only for On. `det` is drawn in the text colour and again in the background colour, clipped to the body. A Chromium `<clipPath>` may only contain shapes, never `<g>`.
 - `tools/library/build_lib.py <pack> [part parts]`, `merge_lib.py <pack>`, `optimize_png.py <pack>`: build, merge into `icons.json`, palette-optimise PNGs.
-- `tools/library/redraw.py <pack> <symbol id>...`: re-renders single symbols after a drawing change (all themes, on/off, plain). `thumbnail.py` and `gallery.py` generate the Marketplace thumbnail and gallery images 2 to 4 with the real counts from `icons.json`; rerun them after the icon count changes.
+- `tools/library/redraw.py <pack> <symbol id>...`: re-renders single symbols after a drawing change (all themes, on/off, plain). `thumbnail.py`, `gallery.py` and `previews.py` generate the Marketplace thumbnail, gallery images 2 to 4 and the five season icon previews (also copied into the pack's `previews/`) with the real counts from `icons.json`; rerun them after the icon count changes.
 - `docs/NAMING.md`: the naming scheme. `docs/LIBRARY.md`: every symbol by group (generated, do not edit by hand).
 - `marketplace/`: thumbnail, gallery, previews, `LIES-MICH.md`.
 
