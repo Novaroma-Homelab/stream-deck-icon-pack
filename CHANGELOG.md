@@ -1,6 +1,7 @@
 # Changelog
 
 ## 4.0.0
+- Renamed the pack to "Roman Season Icons" (Marketplace review: name without the organisation). The pack ID and all icon file names are unchanged. The release file is now `Roman-Season-Icons.streamDeckIconPack`.
 - New icon library: 387 symbols as toggle pairs (`-off` outline, `-on` filled) in all 15 colour themes, with and without background. Lights glow when on.
 - New lights: spot light, built-in downlight, cupboard light, under-cabinet light, LED strip (straight and wave), key light (and Air), ring light, desk, floor, pendant, ceiling and wall lamps, lantern, candle, flashlight, stage light, floodlight, shelf light, neon sign, dimmer, light colour and more.
 - Many more symbols from the common icon categories: arrows, shapes, files and folders, devices, camera and audio, layout and alignment, numbers 0 to 10, currencies, tools.
